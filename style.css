@@ -1,0 +1,42 @@
+html {
+    background-color: #F0F5FA  ;
+  }
+  
+  nav {
+    width: 100%; /*width should be a percentage for responsiveness */
+    height: 38px; /*height should be px. Adjust to your liking */
+    background-color: #008000; /*hex color code should be used */
+  }
+  
+  nav a {
+      display: block; 
+      float: right;
+      font-family: sans-serif; `
+      font-size: 14px;
+      color: white;
+      border: 1px solid #000;
+      background-color: #2C3E50;
+      padding-top: 10px; /*padding*/
+   padding-right: 40px;
+   padding-bottom: 10px;
+   padding-left: 20px;
+   text-decoration: none;
+  
+      /*
+      border-color:solid #a17fe0; */
+      
+   }
+    nav a:hover {
+                  background-color: #07D79B;
+              
+    }
+    #logo {
+    }
+  
+/* CONTAINER FLEX BOX CSS */
+
+#container {
+  display: flex;
+  flex-direction: column
+}
+  
