@@ -5,7 +5,7 @@ html {
   nav {
     width: 100%; /*width should be a percentage for responsiveness */
     height: 38px; /*height should be px. Adjust to your liking */
-    background-color: #008000; /*hex color code should be used */
+    background-color: #2C3E50 ; /*hex color code should be used */
   }
   
   nav a {
